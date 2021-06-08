@@ -124,7 +124,7 @@ pathlib2==2.3.5
 patsy==0.5.1
 pep8==1.7.1
 pickleshare==0.7.5
-Pillow==8.1.1
+Pillow==8.2.0
 pipdeptree==0.13.2
 pipreqs==0.4.10
 pkginfo==1.5.0.1
